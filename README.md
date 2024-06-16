@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @R-1-C-H-A-R-D
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on companies with vacancies
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: im selftaught
+<h1 align="center">Hi 👋, I'm Richard.</h1>
+<h3 align="center">A passionate upcoming programmer from Kenya.</h3>
 
-<!---
-R-1-C-H-A-R-D/R-1-C-H-A-R-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-i-c-h-a-r-d&label=Profile%20views&color=0e75b6&style=flat" alt="r-i-c-h-a-r-d" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-i-c-h-a-r-d" alt="r-i-c-h-a-r-d" /></a> </p>
+
+- 🌱 I’m currently learning **Computer Science**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-i-c-h-a-r-d&show_icons=true&locale=en" alt="r-i-c-h-a-r-d" /></p>
